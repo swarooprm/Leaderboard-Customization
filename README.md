@@ -5,7 +5,7 @@ This repository contains the code for the paper How Robust are Model Rankings : 
 
 ## Compilation Instructions
 1. Download the AAAI IF folder
-2. Set up a virtual python environment with the configuration file *a*
+2. Set up a virtual python environment with the configuration file *requirements.txt*
 3. Set up a Flask server with the following parameters:
    ```
    FLASK_APP=flask_base.py
