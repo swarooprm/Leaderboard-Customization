@@ -1,7 +1,7 @@
 # Leaderboard-Customization-For-Equitable-Evaluation
 A prototype to demonstrate leaderboard customization for equitable evaluation
 
-This repository contains the code for the paper How Robust are Model Rankings : A Leaderboard Customization Approach for Equitable Evaluation, AAAI 2021.
+This repository contains the code for the paper [How Robust are Model Rankings : A Leaderboard Customization Approach for Equitable Evaluation, AAAI 2021](https://www.google.com).
 
 ## Compilation Instructions
 1. Download the AAAI IF folder
@@ -17,3 +17,6 @@ This repository contains the code for the paper How Robust are Model Rankings : 
 
 If you find this useful in your research, please consider citing:
 
+```
+bibtex link
+```
